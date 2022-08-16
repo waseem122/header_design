@@ -100,3 +100,31 @@ button {
 button:hover {
     box-shadow: inset 200px 0 0 #009688;
 }
+
+.footer {
+    position: absolute;
+    top: 85%;
+    background-color: black;
+    width: 100%;
+    height: 15vh;
+}
+
+.footer h1{
+    position: absolute;
+    top: 25px;
+    left: 50%;
+    color: white;
+    text-align: center;
+    
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 65px;
+    left: 50%;
+}
+
+
+
